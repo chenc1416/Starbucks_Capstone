@@ -60,4 +60,5 @@ Here is the schema and explanation of each variable in the files:
 
 Must give credit to Stakbucks for the data.
 
-Report for this project:https://medium.com/@chencheninee/how-to-send-out-the-starbucks-offer-to-the-right-people-1649dd3a9149
+## Report for this project
+https://medium.com/@chencheninee/how-to-send-out-the-starbucks-offer-to-the-right-people-1649dd3a9149
